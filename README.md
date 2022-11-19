@@ -1,2 +1,2 @@
-# Training_RehHat
+# Training_RedHat
 this is my first Github repositery
